@@ -3,6 +3,7 @@ package com.example.ryne.daggermvp_tutorial;
 import android.app.Application;
 
 
+import com.example.ryne.daggermvp_tutorial.data.component.DaggerNetComponent;
 import com.example.ryne.daggermvp_tutorial.data.component.NetComponent;
 import com.example.ryne.daggermvp_tutorial.data.module.AppModule;
 import com.example.ryne.daggermvp_tutorial.data.module.NetModule;
